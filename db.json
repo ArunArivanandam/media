@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "64a2",
+      "name": "Ted Okuneva"
+    },
+    {
+      "id": "ec56",
+      "name": "Dan Ziemann"
+    },
+    {
+      "id": "a855",
+      "name": "Ignacio D'Amore"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking trip",
+      "userId": 1
+    },
+    {
+      "id": "7792",
+      "userId": "64a2",
+      "title": "Oriental Cotton Chips"
+    },
+    {
+      "id": "92dd",
+      "userId": "64a2",
+      "title": "Electronic Metal Gloves"
+    },
+    {
+      "id": "eef9",
+      "userId": "a855",
+      "title": "Handcrafted Soft Car"
+    },
+    {
+      "id": "ade8",
+      "userId": "1",
+      "title": "Incredible Plastic Keyboard"
+    },
+    {
+      "id": "f1f2",
+      "userId": "a855",
+      "title": "Oriental Rubber Ball"
+    }
+  ],
+  "photos": [
+    {
+      "id": "842f",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2496"
+    },
+    {
+      "id": "5f9e",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=76645"
+    },
+    {
+      "id": "dce8",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=32414"
+    },
+    {
+      "id": "1c4d",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=29623"
+    },
+    {
+      "id": "2db0",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=77919"
+    },
+    {
+      "id": "f227",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=36967"
+    },
+    {
+      "id": "4847",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=60313"
+    },
+    {
+      "id": "b0c7",
+      "albumId": "7792",
+      "url": "https://loremflickr.com/150/150/abstract?lock=59804"
+    },
+    {
+      "id": "27e2",
+      "albumId": "92dd",
+      "url": "https://loremflickr.com/150/150/abstract?lock=90675"
+    }
+  ]
+}
